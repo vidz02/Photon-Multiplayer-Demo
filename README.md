@@ -5,13 +5,13 @@ A lightweight multiplayer demo project built using Unity and Photon PUN 2. Desig
 
 ## 🎮 Features
 
-- 🔹 **Real-time multiplayer** using Photon PUN 2
-- 🔹 **Player spawning** with unique names
-- 🔹 **Randomized player colors** synced across network
-- 🔹 **Bullet firing** with networked instantiation
-- 🔹 **Camera follow** for local player only
-- 🔹 **Clean UI** for name entry and connection
-- 🔹 **Late joiners** see synced players correctly
+- **Real-time multiplayer** using Photon PUN 2
+- **Player spawning** with unique names
+- **Randomized player colors** synced across network
+- **Bullet firing** with networked instantiation
+- **Camera follow** for local player only
+- **Clean UI** for name entry and connection
+- **Late joiners** see synced players correctly
 
 ## 🛠 Tech Stack
 
