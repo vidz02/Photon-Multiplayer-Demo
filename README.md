@@ -21,6 +21,16 @@ A lightweight multiplayer demo project built using Unity and Photon PUN 2. Desig
 - IPunObservable for syncing player state
 - RPCs for event-based logic
 
+## 🧪 How to Run
+
+1. Clone the repo or download as ZIP
+2. Open in Unity `2022.3 LTS` or later
+3. Add your Photon App ID to:
+   ```
+   Window > Photon Unity Networking > PhotonServerSettings
+   ```
+4. Hit **Play** or **Build** and run multiple instances to test multiplayer
+
 ## 📁 Project Structure
 
 ```
@@ -55,20 +65,10 @@ Mumbai, India | Game Programmer | Unity & Unreal Developer
 ![Main UI](Demo_Media/Screenshot_1.png)
 ![In-Game Multiplayer](Demo_Media/Screenshot_2.png)
 
-## Demo Video
+## 📹 Demo Video
 
 ![Watch the demo](Demo_Media/Demo_Video.gif)
 
-## 🧪 How to Run
-
-1. Clone the repo or download as ZIP
-2. Open in Unity `2022.3 LTS` or later
-3. Add your Photon App ID to:
-   ```
-   Window > Photon Unity Networking > PhotonServerSettings
-   ```
-4. Hit **Play** or **Build** and run multiple instances to test multiplayer
-
 ---
-##
-Thank you for reviewing my project!
+
+✅ *Thank you for checking out this project!*
